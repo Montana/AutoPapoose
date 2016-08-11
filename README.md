@@ -4,7 +4,7 @@ Shell script to run Papoose
 Fetch the git package, then run 
 
 
-`cd`
+`cd ~`
 
 `./autopapoose.sh`
 
