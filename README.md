@@ -1,5 +1,5 @@
 # AutoPapoose
-Shell script to run Papoose
+Simple shell script to run Papoose
 # Usage 
 Fetch the git package, then run 
 
