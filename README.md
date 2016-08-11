@@ -8,4 +8,4 @@ Fetch the git package, then run
 
 `./autopapoose.sh`
 
-chmod if need be. 
+chmod +x if need be. 
