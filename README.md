@@ -5,8 +5,6 @@ Fetch the git package, then run
 
 
 `cd`
-
 `./autopapoose.sh`
-
 
 chmod if need be. 
